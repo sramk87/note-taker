@@ -1,3 +1,9 @@
+### User Story<br>
+AS A small business owner<br>
+I WANT to be able to write and save notes<br>
+SO THAT I can organize my thoughts and keep track of tasks I need to complete<br>
+<br>
+<br>
 ### Acceptance Criteria<br>
 GIVEN a note-taking application<br>
 WHEN I open the Note Taker<br>
