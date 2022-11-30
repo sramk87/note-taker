@@ -17,10 +17,4 @@ router.get('/notes', (req, res) => {
     }
   });
 
-  router.delete("/notes/:id" , (req, res) => {
-    const params = req.params.id
-    deleteNote(params, notes);
-    res.redirect('');
-  });
-
   module.exports = router;
