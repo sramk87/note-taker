@@ -10,4 +10,4 @@ function addNote(body, notesArr) {
       return putNote;
 }
 
-module.exports = { addNote }
+module.exports = { addNote };
